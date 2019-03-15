@@ -1,3 +1,2 @@
 # Codeforces-solutions
-Codeforces problemset solutions written in Java
-Older problems are in C/C++
+Codeforces problemset solutions written in Java, older problems are in C/C++
